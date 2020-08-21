@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  Rocketseat - Semana OmniStack 9.0
+  Semana OmniStack 0.9 - Rocketseat
 </h2>
   
 <h1 align="center"> 
