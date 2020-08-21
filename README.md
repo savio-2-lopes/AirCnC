@@ -12,11 +12,13 @@
   <img alt="Omnistack9" title="#Omnistack9" src="./images/logo.png" width="200px">
 </p>
 
-<br>
+
+---
 
 Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile).
 
-<br><br>
+
+---
 
 ## 🎨 Layout
 
@@ -29,6 +31,8 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
   <img alt="Omnistack9" title="#Omnistack9" src="./images/8.jfif" width="100px">
 </p>
 
+---
+
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -40,7 +44,6 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
 
 ---
 
-<br><br><br>
 
 ## :rocket: Tecnologias
 ### Node.js
@@ -93,7 +96,8 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
   <li>Alert</li>
 </ul>
 
-<br><br>
+
+---
 
 ## :arrow_forward: Start
 ### Node.js
@@ -102,7 +106,6 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
   <li>npm run dev / npm dev</li>
 </ul>
 
-<br>
 
 ### ReactJS
 <ul>
@@ -110,7 +113,6 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
   <li>npm run start / npm start</li>
 </ul>
 
-<br>
 
 ### React Native
 <ul>
@@ -118,7 +120,7 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
   <li>npm run start / npm start</li>
 </ul>
 
-<br>
+
 
 
 ## 🦸 Autor
