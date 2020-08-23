@@ -19,4 +19,4 @@ SpotSchema.virtual('thumbnail_url').get(function () {
   return `http://192.168.1.102:3333/files/${this.thumbnail}`
 })
 
-module.exports = mongoose.model('Spot', SpotSchema)
+module.exports = mongoose.model('Spot', SpotSchema);
