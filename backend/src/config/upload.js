@@ -10,6 +10,6 @@ module.exports = {
 
       cb(null, `${name}-${Date.now()}${ext}`);
     },
-  }),
+  })
 };
 
