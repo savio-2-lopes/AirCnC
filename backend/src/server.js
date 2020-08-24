@@ -21,6 +21,7 @@ const connectedUsers = {};
 
 io.on('connection', socket => {
   const { user_id } = socket.handshake.query;
+    
   connectedUsers[user_id] = socket.id;
 });
 
@@ -29,7 +30,7 @@ app.use((req, res, next) => {
   req.connectedUsers = connectedUsers;
 
   return next();
-});
+})
 
 app.use(cors());
 app.use(express.json());
