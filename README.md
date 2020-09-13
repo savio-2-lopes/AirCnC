@@ -1,6 +1,6 @@
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+<h1 align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Omnistack9" title="#Omnistack9" src="./images/logo.png" width="200px">
-</p>
+</h1>
 
 
 <h4 align="center"> 
