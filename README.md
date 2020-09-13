@@ -1,48 +1,67 @@
-<h2 align="center"> 
-  Semana OmniStack 0.9 - Rocketseat
-</h2>
-  
-<h1 align="center"> 
-  Projeto - AirCnC 
-</h1>
-
-<br>
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Omnistack9" title="#Omnistack9" src="./images/logo.png" width="200px">
 </p>
 
 
----
+<h4 align="center"> 
+	🚧  AirCnC 1.0 :memo: Concluído 🚀 🚧
+</h4>
 
-Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile).
+<br>
+
+## 💻 Sobre o projeto
 
 
----
+🚀   **AirCnC** - é um sistema de locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile). 
+
+Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br/).
+
+
+<br>
+
+
+## ⚙️ Funcionalidades
+
+- [x] As empresas interessadas podem cadastrar seus spots na plataforma web enviando:
+  - [x] Nome da Empresa
+  - [x] Tecnologias que a empresa opera
+  - [x] Valor da diária
+  - [x] Avatar/Imagem
+  
+  <br>
+  
+- [x] Os usuários interessados podem:
+  - [x] Entrar com seu email e tecnologias interessadas.
+  - [x] Solicitar reserva
+
+
+<br>
+
+<br> 
 
 ## 🎨 Layout
 
 ### Mobile
 
 <p align="center">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/5.jfif" width="100px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/6.jfif" width="100px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/7.jfif" width="100px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/8.jfif" width="100px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/5.jfif" width="200px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/6.jfif" width="200px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/7.jfif" width="200px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/8.jfif" width="200px">
 </p>
 
----
+<br>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/1.png" width="200px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/2.png" width="200px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/3.png" width="200px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/4.png" width="200px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/1.png" width="400px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/2.png" width="400px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/3.png" width="400px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/4.png" width="400px">
 </p>
 
----
+<br>
 
 
 ## :rocket: Tecnologias
