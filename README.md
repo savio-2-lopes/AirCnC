@@ -116,29 +116,80 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 </ul>
 
 
----
-
-## :arrow_forward: Start
-### Node.js
-<ul>
-  <li>npm install</li>
-  <li>npm run dev / npm dev</li>
-</ul>
+<br>
 
 
-### ReactJS
-<ul>
-  <li>npm install</li>
-  <li>npm run start / npm start</li>
-</ul>
+## 🚀 Como executar o projeto
+
+Este projeto é divido em três partes:
+1. Backend 
+2. Frontend 
+3. Mobile 
+
+💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+
+<br>
 
 
-### React Native
-<ul>
-  <li>npm install</li>
-  <li>npm run start / npm start</li>
-</ul>
+### Pré-requisitos
 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
+<br>
+
+
+#### 🎲 Rodando o Backend (servidor)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/savio-2-lopes/AirCnC.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Be-The-Hero
+
+# Vá para a pasta backend
+$ cd backend
+
+# Instale as dependências
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+
+```
+
+<br>
+
+#### 🧭 Rodando a aplicação web (Frontend)
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/savio-2-lopes/AirCnC.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Be-The-Hero
+
+# Vá para a pasta da aplicação Front End
+$ cd frontend
+
+# Instale as dependências
+$ yarn add
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+<br>
 
 
 
