@@ -126,7 +126,7 @@ Este projeto é divido em três partes:
 2. Frontend 
 3. Mobile 
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+💡 Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
 <br>
 
@@ -199,7 +199,7 @@ $ yarn start
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60948849?s=460&u=689ef123d3278304945aca213bed7413645ea4a7&v=4" width="100px;" alt=""/>
  <br>
  <sub><b>    Savio Lopes </b></sub></a> <a href="https://github.com/savio-2-lopes" title="Github">  🚀</a>
- <br><br>
+ <br>
  
  
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
