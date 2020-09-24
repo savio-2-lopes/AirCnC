@@ -16,9 +16,7 @@
 
 Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
-
 <br>
-
 
 ## ⚙️ Funcionalidades
 
@@ -37,8 +35,6 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <br>
 
-<br> 
-
 ## 🎨 Layout
 
 ### Mobile
@@ -55,10 +51,10 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/1.png" width="400px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/2.png" width="400px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/3.png" width="400px">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/4.png" width="400px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/1.png" width="300px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/2.png" width="300px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/3.png" width="300px">
+  <img alt="Omnistack9" title="#Omnistack9" src="./images/4.png" width="300px">
 </p>
 
 <br>
