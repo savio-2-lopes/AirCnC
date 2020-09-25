@@ -12,7 +12,7 @@
 ## 💻 Sobre o projeto
 
 
-🚀   **AirCnC** - é um sistema de locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile). 
+🚀   **AirCnC** é um sistema de locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile). 
 
 Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
