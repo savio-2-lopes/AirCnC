@@ -1,5 +1,5 @@
 <h1 align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Omnistack9" title="#Omnistack9" src="./images/logo.png" width="200px">
+  <img alt="AirCnC" title="#AirCnC" src="./images/logo.png" width="200px">
 </h1>
 
 
