@@ -9,6 +9,19 @@
 
 <br>
 
+## Índice
+
+- [Sobre](#sobre-o-projeto)
+- [Funcionalidades](#funcionalidades)
+- [Layout](#layout)
+- [Tecnologias utilizadas](#tecnologias)
+- [Como Executar](#executar)
+- [Autor](#autor)
+
+<br>
+
+<a id="sobre-o-projeto"></a>
+
 ## 💻 Sobre o projeto
 
 🚀   **AirCnC** é um sistema de locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile). 
@@ -16,6 +29,8 @@
 Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketseat](https://rocketseat.com.br/).
 
 <br>
+
+<a id="funcionalidades"></a>
 
 ## ⚙️ Funcionalidades
 
@@ -31,8 +46,9 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
   - [x] Entrar com seu email e tecnologias interessadas.
   - [x] Solicitar reserva
 
-
 <br>
+
+<a id="layout"></a>
 
 ## 🎨 Layout
 
@@ -58,6 +74,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <br>
 
+<a id="tecnologias"></a>
 
 ## :rocket: Tecnologias
 ### Node.js
@@ -110,8 +127,9 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
   <li>Alert</li>
 </ul>
 
-
 <br>
+
+<a id="executar"></a>
 
 
 ## 🚀 Como executar o projeto
@@ -187,6 +205,7 @@ $ yarn start
 <br>
 
 
+<a id="autor"></a>
 
 ## 🦸 Autor
 
