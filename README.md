@@ -223,7 +223,7 @@ $ yarn start
 
 # :memo: Licença
 
-Este projeto está sob a licença do MIT. Veja a [página de licença] (https://opensource.org/licenses/MIT) para mais detalhes.
+Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT)  para mais detalhes.
 
 <br>
 
