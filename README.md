@@ -1,21 +1,36 @@
-<h1 align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="AirCnC" title="#AirCnC" src="./images/logo.png" width="200px">
-</h1>
+<h3 align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="AirCnC" title="#AirCnC" src="./images/logo.png" width="150px">
+</h3>
 
+<br> 
 
-<h4 align="center"> 
-	🚧  AirCnC 1.0 :memo: Concluído 🚀 🚧
-</h4>
-
+<p align="center"> 🚀 <strong>AirCnC - 9º Semana Omnistack</strong> 🚧
+ </p>
+ 
 <br>
 
-## :memo: Índice
+<p align="center">
+   <img src="https://img.shields.io/badge/version-0.0.1-yellow.svg" />
+  
+  <a href="https://github.com/savio-2-lopes">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
+  </a>
+ 
+ <a href="https://github.com/savio-2-lopes">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" target="_blank" />
+  </a>
+</p>
+
+<br> 
+
+# :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Layout](#layout)
 - [Tecnologias utilizadas](#tecnologias)
 - [Como Executar](#executar)
+- [Licença](#licenca)
 - [Autor](#autor)
 
 <br>
@@ -32,7 +47,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <a id="funcionalidades"></a>
 
-## ⚙️ Funcionalidades
+# ⚙️ Funcionalidades
 
 - [x] As empresas interessadas podem cadastrar seus spots na plataforma web enviando:
   - [x] Nome da Empresa
@@ -50,7 +65,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <a id="layout"></a>
 
-## 🎨 Layout
+# 🎨 Layout
 
 ### Mobile
 
@@ -76,7 +91,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <a id="tecnologias"></a>
 
-## :rocket: Tecnologias
+# :rocket: Tecnologias
 ### Node.js
 <ul>
   <li>Nodemon</li>
@@ -132,7 +147,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 <a id="executar"></a>
 
 
-## 🚀 Como executar o projeto
+# 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend 
@@ -168,7 +183,7 @@ $ cd Be-The-Hero
 $ cd backend
 
 # Instale as dependências
-$ yarn add
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
@@ -193,7 +208,7 @@ $ cd Be-The-Hero
 $ cd frontend
 
 # Instale as dependências
-$ yarn add
+$ npm install
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn start
@@ -204,18 +219,18 @@ $ yarn start
 
 <br>
 
+<a id="licenca"></a>
+
+# :memo: Licença
+
+Este projeto está sob a licença do MIT. Veja a [página de licença] (https://opensource.org/licenses/MIT) para mais detalhes.
+
+<br>
 
 <a id="autor"></a>
 
-## 🦸 Autor
-
-<a href="https://github.com/savio-2-lopes">
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60948849?s=460&u=689ef123d3278304945aca213bed7413645ea4a7&v=4" width="100px;" alt=""/>
- <br>
- <sub><b>    Savio Lopes </b></sub></a> <a href="https://github.com/savio-2-lopes" title="Github">  🚀</a>
- <br>
- 
- 
+# 🦸 Autor
+        
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=12996798894&text=Hello!)](https://api.whatsapp.com/send?phone=12996798894&text=Hello!)
