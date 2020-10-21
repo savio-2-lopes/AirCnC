@@ -25,8 +25,7 @@
 
 <br> 
 
-
-# :pushpin: Índice
+## :pushpin: Índice
 
 - [Sobre](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -50,7 +49,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <a id="funcionalidades"></a>
 
-# ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - [x] As empresas interessadas podem cadastrar seus spots na plataforma web enviando:
   - [x] Nome da Empresa
@@ -68,7 +67,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <a id="layout"></a>
 
-# 🎨 Layout
+## 🎨 Layout
 
 ### Mobile
 
@@ -94,7 +93,8 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 
 <a id="tecnologias"></a>
 
-# :rocket: Tecnologias
+## :rocket: Tecnologias
+
 ### Node.js
 <ul>
   <li>Nodemon</li>
@@ -150,7 +150,7 @@ Projeto desenvolvido durante a **9º Semana Omnistack** oferecida pela [Rocketse
 <a id="executar"></a>
 
 
-# 🚀 Como executar o projeto
+## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
 1. Backend 
@@ -161,16 +161,13 @@ Este projeto é divido em três partes:
 
 <br>
 
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o gerenciador de pacotes [Yarn](https://yarnpkg.com).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-
 <br>
-
 
 #### 🎲 Rodando o Backend (servidor)
 
@@ -224,7 +221,7 @@ $ yarn start
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT)  para mais detalhes.
 
@@ -232,7 +229,7 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 <a id="autor"></a>
 
-# 🦸 Autor
+## 🦸 Autor
         
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
